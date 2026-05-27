@@ -28,7 +28,8 @@ currency-converter/
 │── codes.js
 
 ## 📸 Preview
-(Add your project screenshot here later)
+<img width="1852" height="721" alt="image" src="https://github.com/user-attachments/assets/98afc650-b9cb-4df7-a886-93c89886cd7f" />
+
 
 ## 🧠 What I Learned
 While building this project, I improved my understanding of:
