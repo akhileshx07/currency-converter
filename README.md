@@ -3,22 +3,20 @@
 A responsive Currency Converter web application built using HTML, CSS, and JavaScript that allows users to convert one currency into another with real-time exchange rate support.
 
 ## 🚀 Live Demo
-🔗 https://akhileshx07.github.io/currency-converter/
-
+https://currency-converter-akhilesh.netlify.app
 ## 📌 Features
 - Convert currency values instantly
-- Real-time exchange rate conversion
-- Country flag selection
-- Responsive and clean UI
-- User-friendly interface
-- Input validation
+- Real-time currency conversion
+- Dynamic country flag updates
+- Responsive UI
+- API-based exchange rates
+
 
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
-- JavaScript (ES6)
-- Exchange Rate API
-- Flag API
+- JavaScript
+- Fetch API
 
 ## 📂 Project Structure
 currency-converter/
@@ -38,14 +36,7 @@ While building this project, I improved my understanding of:
 - Async JavaScript
 - Dynamic UI Updates
 - Working with JSON data
-
-## 🎯 Future Improvements
-- Add dark mode
-- Add currency conversion history
-- Better error handling
-- Searchable currency dropdown
-- Swap currency button animation
-
+- 
 ## 👨‍💻 Author
 **Akhilesh Sharma**
 
